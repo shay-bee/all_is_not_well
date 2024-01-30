@@ -1,0 +1,33 @@
+body{
+    background-color: blue; 
+    padding: 3rem;
+}
+
+div{
+    padding: 2rem;
+    width: 80%;
+    height: 80%;
+    background-color: orange;
+    box-shadow:5px 5px 15px;
+}
+
+h1{
+    text-align: center; 
+    color: blue; 
+    text-shadow: 1px 2px 2px black;
+    @import url('https://fonts.googleapis.com/css2?family=Merriweather&display=swap');
+}
+
+p{
+    color: black; 
+    font-size: large;
+}
+
+ul{
+    color: black; 
+    font-size: large;
+}
+
+a:hover{
+    text-decoration: none;
+}
